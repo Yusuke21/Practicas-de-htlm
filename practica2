@@ -1,0 +1,348 @@
+<html>
+<head>
+<title>
+Practica 2
+
+</title>
+
+</head>
+
+
+<body>
+
+<label>
+nombre
+</label>
+<p>
+<input type="text" value="introdusca su nombre" id="texto" /> 
+</p>
+
+
+<p>
+<label>
+apellido paterno
+</label>
+</p>
+<p>
+<input type="text" value="introdusca su apellido parterno" id="texto" /> 
+</p>
+
+
+<p>
+<label>
+apellido materno
+</label>
+</p>
+<p>
+<input type="text" value="introdusca su apellido materno" id="texto" /> 
+</p>
+
+<p>
+<form>
+<label>
+edad
+
+</label>
+
+<select>
+
+<option></option>
+<option>20</option>
+<option>21</option>
+<option>21</option>
+<option>23</option>
+<option>24</option>
+<option>25</option>
+<option>26</option>
+<option>27</option>
+<option>28</option>
+<option>29</option>
+<option>30</option>
+
+</selec>
+</from>
+
+</p>
+
+<br>
+</br>
+
+<p>
+
+
+<form>
+<label>sexo</label>
+<br/>
+<input type ="radio"
+
+name="sexo"
+id="sen1" />
+<label for="seml">
+masculino
+</label>
+<br>
+<br/>
+
+<input type="radio"
+name="sexo"
+id="sem"/>
+
+<label for="sem2">
+femenino
+</label>
+<br>
+</br>
+
+
+
+
+</p>
+
+<p>
+<form>
+<label>
+nacionalidad
+
+</label>
+
+<select>
+
+<option></option>
+<option>mexico</option>
+<option>estados unidos</option>
+<option>rusia</option>
+<option>irak</option>
+<option>japon</option>
+<option>china</option>
+<option>francia</option>
+<option>reino unido</option>
+<option>argentina</option>
+<option>italia</option>
+<option>brazil</option>
+
+</selec>
+</from>
+
+</p>
+
+<p>
+
+</p>
+
+
+<p>
+<label> telefono </label>
+
+</p>
+
+<p>
+<input type="text" value="su numero aqui" id="texto" /> 
+</p>
+
+
+<p>
+<label> correo electronico </label>
+
+</p>
+
+<p>
+<input type="text" value="su correo aqui" id="texto" /> 
+</p>
+
+<p>
+<label> domicilio </label>
+
+</p>
+
+<p>
+<input type="text" value="su domicilio aqui" id="texto" /> 
+</p>
+
+
+<p>
+
+<form>
+<label>intereses</label>
+<br/>
+<input type ="checkbox"
+
+name="intereses"
+id="sen1" />
+<label for="seml">
+musica
+</label>
+<br>
+<br/>
+
+<input type="checkbox"
+name="intereses"
+id="sem"/>
+
+<label for="sem2">
+
+tv
+</label>
+<br>
+</br>
+
+<input type="checkbox"
+name="intereses"
+id="sem3"/>
+
+<label for ="sem3">
+libros
+</label>
+<br>
+</br>
+
+<input type="checkbox"
+name="intereses"
+id="sem4"/>
+
+<label for ="sem4">
+deportes
+</label>
+<br>
+</br>
+
+
+<input type="checkbox"
+name="intereses"
+id="sem5"/>
+
+<label for ="sem5">
+tecnologia
+</label>
+<br>
+</br>
+
+
+
+
+</form>
+</p>
+
+
+<p>
+<form>
+<label>ultimo grado de estudios</label>
+<br/>
+<input type ="radio"
+
+name="ultimo grado de estudios"
+id="sen1" />
+<label for="seml">
+ninguno
+</label>
+<br>
+<br/>
+
+<input type="radio"
+name="ultimo grado de estudios"
+id="sem"/>
+
+<label for="sem2">
+primaria
+</label>
+<br>
+</br>
+
+<input type="radio"
+name="ultimo grado de estudios"
+id="sem"/>
+
+<label for="sem3">
+secundaria
+</label>
+<br>
+</br>
+
+
+<input type="radio"
+name="ultimo grado de estudios"
+id="sem"/>
+
+<label for="sem4">
+bachillerato
+</label>
+<br>
+</br>
+
+
+<input type="radio"
+name="ultimo grado de estudios"
+id="sem"/>
+
+<label for="sem6">
+licensiatura
+</label>
+<br>
+</br>
+
+<input type="radio"
+name="ultimo grado de estudios"
+id="sem"/>
+
+<label for="sem7">
+maestria
+</label>
+<br>
+</br>
+
+
+<input type="radio"
+name="ultimo grado de estudios"
+id="sem"/>
+
+<label for="sem8">
+doctorado
+</label>
+<br>
+</br>
+
+
+
+
+
+</p>
+
+<p>
+<label> observaciones personales</label>
+
+</p>
+
+<p>
+
+<INPUT id=text1 style="WIDTH: 228px; HEIGHT: 98px" 
+size=32 name=text1> 
+
+</p>
+
+<p>
+<label> datos </label>
+
+
+</p>
+
+<INPUT id=text1 style="WIDTH: 228px; HEIGHT: 98px" 
+size=32 name=text1> 
+</p>
+
+<p>
+
+<button type="button">cancelar</button>
+</p>
+
+<p>
+
+<button type="button">enviar</button>
+</p>
+
+
+</body>
+
+
+
+
+
+</html>
